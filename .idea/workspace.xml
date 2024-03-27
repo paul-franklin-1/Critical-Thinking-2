@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5432edc6-42af-48d9-9952-52d6dc028064" name="Changes" comment="first save">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5432edc6-42af-48d9-9952-52d6dc028064" name="Changes" comment="third save...">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,27 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "searchQuery": "https://github.com/paul-franklin-1/Critical-Thinking-2.git",
+      "state": "OPEN",
+      "assignee": "paul-franklin-1"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "paul-franklin-1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="93d2f9ac-65cd-4dc9-a696-ffa226fb8ea8" />
+        <option name="url" value="https://github.com/paul-franklin-1/Critical-Thinking-2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -62,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711568211940</updated>
-      <workItem from="1711568214639" duration="1127000" />
+      <workItem from="1711568214639" duration="1613000" />
     </task>
     <task id="LOCAL-00001" summary="first save">
       <option name="closed" value="true" />
@@ -72,14 +92,60 @@
       <option name="project" value="LOCAL" />
       <updated>1711569250035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second save">
+      <option name="closed" value="true" />
+      <created>1711569367690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711569367690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third save">
+      <option name="closed" value="true" />
+      <created>1711569438794</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711569438794</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third save">
+      <option name="closed" value="true" />
+      <created>1711569510327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711569510327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third save...">
+      <option name="closed" value="true" />
+      <created>1711569759937</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711569759937</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first save" />
-    <option name="LAST_COMMIT_MESSAGE" value="first save" />
+    <MESSAGE value="second save" />
+    <MESSAGE value="third save" />
+    <MESSAGE value="third save..." />
+    <option name="LAST_COMMIT_MESSAGE" value="third save..." />
   </component>
 </project>
