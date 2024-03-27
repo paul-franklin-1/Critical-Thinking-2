@@ -8,7 +8,7 @@ public class Main {
         bankFrame.setTitle("My Bank Account:: Withdraw and Deposit");
 
                 // Set the size of the frame
-        bankFrame.setSize(800, 300);
+        bankFrame.setSize(800, 400);
 
                 // Make the frame visible
         bankFrame.setVisible(true);
