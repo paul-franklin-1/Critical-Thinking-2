@@ -5,7 +5,7 @@ public class Main {
         JFrame bankFrame = new JFrame();
 
                 // Set the title of the frame
-        bankFrame.setTitle("My Bank Account: Withdraw and Deposit");
+        bankFrame.setTitle("My Bank Account:: Withdraw and Deposit");
 
                 // Set the size of the frame
         bankFrame.setSize(800, 300);
